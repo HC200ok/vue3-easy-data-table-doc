@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7790bcf6","path":"/css-variables.html","title":"CSS variables","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"css-variables.md"}');export{e as data};

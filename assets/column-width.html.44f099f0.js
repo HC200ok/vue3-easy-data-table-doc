@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-57567611","path":"/features/column-width.html","title":"Column width","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"features/column-width.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4f6bbb0f","path":"/features/border-cell.html","title":"Border cell","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Example","slug":"example","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"features/border-cell.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const o=JSON.parse('{"key":"v-02ece493","path":"/props/common-props.html","title":"Common props","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1655028221000,"contributors":[{"name":"HC200ok","email":"hanchao0408@gmail.com","commits":4}]},"filePathRelative":"props/common-props.md"}');export{o as data};

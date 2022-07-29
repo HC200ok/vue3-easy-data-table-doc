@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4359f5d8","path":"/features/header-slot.html","title":"Header slot","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Example","slug":"example","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"features/header-slot.md"}');export{e as data};

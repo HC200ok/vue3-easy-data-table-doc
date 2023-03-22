@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-42ed57a4","path":"/props/server-side-mode-only-props.html","title":"Server side mode props","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1665501148000,"contributors":[{"name":"HC200ok","email":"hanchao0408@gmail.com","commits":4}]},"filePathRelative":"props/server-side-mode-only-props.md"}');export{e as data};

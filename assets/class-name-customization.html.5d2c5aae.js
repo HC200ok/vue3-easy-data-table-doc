@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7a164bfa","path":"/features/class-name-customization.html","title":"Class name customization","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668001457000,"contributors":[{"name":"HC200ok","email":"hanchao0408@gmail.com","commits":2}]},"filePathRelative":"features/class-name-customization.md"}');export{a as data};
